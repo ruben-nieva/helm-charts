@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  values-checker:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-09-21T17:24:43.66295-03:00"
+    description: This chart creates a ConfigMap with all the Helm values in the data
+      section.
+    digest: e5f8587908b6fac795955ef0edcf6f72951e4da32e7a7c584e6b5077e5b46549
+    name: values-checker
+    type: application
+    urls:
+    - https://github.com/ruben-nieva/helm-charts/packages/values-checker-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-21T17:24:43.661047-03:00"
